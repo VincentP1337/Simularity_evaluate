@@ -1,0 +1,3 @@
+2__best-model_8_2018base_256_8 original_filename1
+binarized_filename2 original_filename2
+...
